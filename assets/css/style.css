@@ -251,7 +251,7 @@
       color:#fce138;
       font-size: 32px
   }
-  contact-info p .contract-info address{
+  .contact-info p, .contract-info address{
     margin: 20px 0;
     line-height: 1.5;
     font-size: 20px;
